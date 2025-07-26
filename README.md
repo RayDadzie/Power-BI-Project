@@ -43,3 +43,10 @@ Followed by Data Engineer, Data Architect, Other, Data Analyst, Database Develop
 
 7. Favorite Programming Languages by Current Roles (Stacked bar chart, center right):
 Shows counts of favorite programming languages used by respondents in different roles. The most favored language is Python by a large margin. Others include R, Other languages, C/C++, JavaScript, and Java, with Python clearly the dominant language among respondents.
+
+
+Thanks for following through!
+
+<img width="318" height="159" alt="thaaanks" src="https://github.com/user-attachments/assets/4a877143-0d88-42cf-af67-415de0c1882e" />
+
+
